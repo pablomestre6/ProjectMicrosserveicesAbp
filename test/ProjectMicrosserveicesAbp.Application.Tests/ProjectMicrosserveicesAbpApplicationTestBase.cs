@@ -1,0 +1,6 @@
+﻿namespace ProjectMicrosserveicesAbp;
+
+public abstract class ProjectMicrosserveicesAbpApplicationTestBase : ProjectMicrosserveicesAbpTestBase<ProjectMicrosserveicesAbpApplicationTestModule>
+{
+
+}
